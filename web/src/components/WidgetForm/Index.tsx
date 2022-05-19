@@ -24,7 +24,7 @@ export const feedbackTypes = {
       alt: 'Imagem de uma lâmpada'
     },
   },
-  OTHEr: {
+  OTHER: {
     title: 'Outro',
     image: {
       source: otherImageUrl,
